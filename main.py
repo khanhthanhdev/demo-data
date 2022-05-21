@@ -26,3 +26,4 @@ st.download_button(
     mime='text/ipynb',
 )
 st.write("Using Google Colab [link](https://colab.research.google.com/drive/1eB3W94YgkvvjwWLb2J3SEZnEjnzof-iT?usp=sharing)")
+st.write("You can see my slide here [link](https://www.canva.com/design/DAFBJu1TZG4/hrVV1K6ONaYjMA4KVbKXiw/view?utm_content=DAFBJu1TZG4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)")
